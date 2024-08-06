@@ -4,7 +4,7 @@
 
 🌐 - Soon on [j.ginestiere.fr](https://j.ginestiere.fr)
 
-🎯 - Making your life easier & full-open-source transition
+🎯 - Making your life easier & transitionning to full-open-source
 
 ❤️ - Working models & techno
 
@@ -16,6 +16,6 @@
 
 🌐 - Bientôt sur [j.ginestiere.fr](https://j.ginestiere.fr)
 
-🎯 - Faciliter votre vie et transition vers l'open-source
+🎯 - Faciliter votre vie et transitionner vers l'open-source
 
 ❤️ - Miniatures fonctionnelles et musique techno
