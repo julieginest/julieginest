@@ -1,4 +1,4 @@
-# English
+# 🇬🇧/🇺🇸English
 
 💼/🎓 - At [SNCF RESEAU](https://www.sncf-reseau.com/) as 2nd year apprentice
 
@@ -10,7 +10,7 @@
 
 <br/>
 
-# Français
+# 🇫🇷/🏴󠁣󠁡󠁱󠁣󠁿Français
 
 💼/🎓 -  A [SNCF RESEAU](https://www.sncf-reseau.com/) en deuxieme année de BTS
 
