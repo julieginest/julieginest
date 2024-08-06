@@ -10,7 +10,7 @@
 
 <br/>
 
-# 🇫🇷/🏴󠁣󠁡󠁱󠁣󠁿Français
+# 🇫🇷/🇧🇪Français
 
 💼/🎓 -  A [SNCF RESEAU](https://www.sncf-reseau.com/) en deuxieme année de BTS
 
