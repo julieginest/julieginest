@@ -1,13 +1,21 @@
 # English
 
-💼/🎓 - Working at SNCF as 2nd year apprentice
+💼/🎓 - At SNCF as 2nd year apprentice
 
-🌐 Soon on [j.ginestiere.fr](https://j.ginestiere.fr)
+🌐 - Soon on [j.ginestiere.fr](https://j.ginestiere.fr)
+
+🎯 - Making your life easier & full-open-source transition
+
+❤️ - Working models & techno
 
 <br/>
 
 # Français
 
-💼/🎓 -  Travaille à la SNCF en deuxieme année de BTS
+💼/🎓 -  A la SNCF en deuxieme année de BTS
 
-🌐 Bientôt sur [j.ginestiere.fr](https://j.ginestiere.fr)
+🌐 - Bientôt sur [j.ginestiere.fr](https://j.ginestiere.fr)
+
+🎯 - Faciliter votre vie et transition vers l'open-source
+
+❤️ - Miniatures fonctionnelles et musique techno
