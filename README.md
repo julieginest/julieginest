@@ -12,7 +12,7 @@
 
 # Français
 
-💼/🎓 -  A la [SNCF RESEAU](https://www.sncf-reseau.com/) en deuxieme année de BTS
+💼/🎓 -  A [SNCF RESEAU](https://www.sncf-reseau.com/) en deuxieme année de BTS
 
 🌐 - Bientôt sur [j.ginestiere.fr](https://j.ginestiere.fr)
 
