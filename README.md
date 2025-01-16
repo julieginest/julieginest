@@ -1,4 +1,4 @@
-# Julien GINESTIERE
+# Julie GINESTIERE
 
 ## 🇬🇧/🇺🇸English
 
