@@ -2,7 +2,7 @@
 
 ## 🇬🇧/🇺🇸English
 
-💼/🎓 - At [SNCF RESEAU](https://www.sncf-reseau.com/) as 2nd year apprentice
+💼/🎓 - At [SNCF RESEAU](https://www.sncf-reseau.com/) as 3<sup>rd</sup> year apprentice
 
 🌐 - On [j.ginestiere.fr](https://j.ginestiere.fr)
 
@@ -14,7 +14,7 @@
 
 ## 🇫🇷/🇧🇪Français
 
-💼/🎓 -  A [SNCF RESEAU](https://www.sncf-reseau.com/) en deuxieme année de BTS
+💼/🎓 -  A [SNCF RESEAU](https://www.sncf-reseau.com/) en 3<sup>è</sup> année de Bachelor
 
 🌐 - Sur [j.ginestiere.fr](https://j.ginestiere.fr)
 
